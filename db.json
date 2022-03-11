@@ -1,0 +1,10 @@
+{
+  "bloqueios": [
+    {
+      "sq_pessoa": 123456789,
+      "nr_bloq_desbloq": "NR1234567",
+      "in_tipo_bloqueio": 1,
+      "in_bloq_desbloq": 2
+    }
+  ]
+}
